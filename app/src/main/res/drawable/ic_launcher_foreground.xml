@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Central File Folder Representation -->
+    <path
+        android:pathData="M34,36 H46 L51,41 H74 C76.2,41 78,42.8 78,45 V71 C78,73.2 76.2,75 74,75 H34 C31.8,75 30,73.2 30,71 V40 C30,37.8 31.8,36 34,36 Z"
+        android:fillColor="#00E6FF" />
+
+    <!-- Detailed Internal Paper Slit Accent -->
+    <path
+        android:pathData="M36,46 H72 V49 H36 Z"
+        android:fillColor="#121420"
+        android:fillAlpha="0.4" />
+
+    <!-- Left Swipe Arrow -->
+    <path
+        android:pathData="M24,56 L15,56 M19,51 L14,56 L19,61"
+        android:strokeWidth="3.2"
+        android:strokeColor="#FF416C"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Right Swipe Arrow -->
+    <path
+        android:pathData="M84,56 L93,56 M89,51 L94,56 L89,61"
+        android:strokeWidth="3.2"
+        android:strokeColor="#00FF87"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

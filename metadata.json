@@ -1,0 +1,6 @@
+{
+  "name": "Organizer Pro by Dumitru Boldurescu",
+  "description": "An interactive utility to quickly organize, keep, or trash local files and media using swiping gestures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
